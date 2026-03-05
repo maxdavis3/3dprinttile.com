@@ -1,0 +1,209 @@
+baseURL = "https://3dprinttile.com/"
+languageCode = "en-us"
+title = "3D Print Tile"
+theme = "printwire"
+
+# All single-value params MUST come before [[params.*]] array tables
+[params]
+tagline       = "The specialist resource for ceramic tile design and additive manufacturing."
+description   = "3D Print Tile — specialist coverage of ceramic tile design and additive manufacturing for parametric interiors, acoustic walls, and custom facade cladding."
+keywords      = "ceramic tile 3D printing, parametric tile design, custom floor tile, acoustic ceramic tile, facade cladding 3D print, architectural ceramics, custom relief tile"
+logoEmoji     = "🟫"
+contactEmail  = "maxdavisgroup@gmail.com"
+ogImage       = "images/12_ceramic_tiles.png"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#c2714f"
+colorPrimaryDark  = "#a85e3e"
+colorPrimaryLight = "#d4896b"
+colorBgDark       = "#0d0b09"
+colorBgSection    = "#111009"
+colorBgCard       = "#1a1510"
+colorBgCardHover  = "#231d15"
+colorBorder       = "rgba(194,113,79,0.18)"
+colorBorderLight  = "rgba(194,113,79,0.08)"
+
+fontPrimary   = "Josefin+Sans"
+fontSecondary = "Lato"
+
+pubmedQuery    = "ceramic+tile+additive+manufacturing+parametric+design"
+pubmedFallback = "ceramic+tile+3D+printing"
+newsFallbackImages = [
+  "images/12_ceramic_tiles.png",
+  "images/06_wall_panel.png",
+  "images/05_lattice_cubes.png",
+]
+
+heroEyebrow  = "Ceramic Tile 3D Printing"
+heroTitle    = "Every <em>Tile</em><br>Unique by Design"
+heroSubtitle = "The specialist resource for ceramic tile design and additive manufacturing — covering parametric tile design, acoustic wall systems, and custom facade cladding."
+heroCta1Text = "Latest Research"
+heroCta1URL  = "/articles/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "images/12_ceramic_tiles.png"
+
+newsSectionTitle    = "Ceramic Tile & Surface Research"
+newsSectionSubtitle = "Research on parametric ceramic design, acoustic tiles, and architectural cladding systems."
+
+overviewLabel   = "The Opportunity"
+overviewTitle   = "Tile Beyond the Catalog"
+overviewText    = "Standard tile manufacturing is driven by mold economics — the same 300 forms repeated across millions of square meters. Ceramic 3D printing breaks this constraint: every tile can be different, every surface unique."
+overviewText2   = "Parametric tile design tools let architects and interior designers define rules rather than shapes — generating field-to-field variation, acoustic tuning, or brand-specific surface texture across any installation scale."
+overviewImage   = "images/12_ceramic_tiles.png"
+overviewBtnText = "See Applications"
+overviewBtnURL  = "/services/"
+
+applicationsLabel = "Applications"
+applicationsTitle = "Ceramic Tile AM Applications"
+
+servicesLabel    = "What We Offer"
+servicesTitle    = "Coverage & Services"
+servicesSubtitle = "Expert coverage and fabrication services for ceramic additive manufacturing."
+
+clusterLabel = "Ceramic Cluster"
+clusterTitle = "Related Ceramic 3D Printing Sites"
+
+newsletterTitle = "Ceramic Tile Design Updates"
+newsletterText  = "Parametric tile research, material innovations, and project spotlights — monthly."
+
+ctaTitle   = "Design Your Tile Project"
+ctaText    = "From parametric concept to fired installation — tell us about your project."
+ctaImage   = "images/12_ceramic_tiles.png"
+ctaBtnText = "Get a Quote"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 3
+suffix = "B+"
+label  = "Ceramic AM Market 2034"
+
+[[params.stats]]
+count  = 28
+suffix = "%"
+label  = "Annual CAGR"
+
+[[params.stats]]
+count  = 60
+suffix = "%"
+label  = "Waste Reduction vs. Traditional"
+
+[[params.stats]]
+count  = 0
+suffix = "Molds"
+label  = "Required for Custom Tiles"
+
+[[params.applications]]
+title       = "Interior Wall Tile"
+description = "Custom relief tile for hospitality, retail, and residential spaces — unique surface patterns at production scale."
+image       = "images/12_ceramic_tiles.png"
+
+[[params.applications]]
+title       = "Exterior Cladding"
+description = "Weather-rated terracotta facade panels with custom surface profiles and weathered glaze effects."
+image       = "images/06_wall_panel.png"
+
+[[params.applications]]
+title       = "Acoustic Panels"
+description = "Sound-absorbing ceramic wall systems for office, auditorium, and restaurant environments with tunable geometry."
+image       = "images/06_wall_panel.png"
+
+[[params.applications]]
+title       = "Perforated Screens"
+description = "Decorative and functional ceramic privacy screens and room dividers with parametric aperture patterns."
+image       = "images/05_lattice_cubes.png"
+
+[[params.servicesPreview]]
+icon        = "🟫"
+title       = "Custom Relief Tile"
+description = "Parametric surface generation — every tile unique, every installation one-of-a-kind."
+
+[[params.servicesPreview]]
+icon        = "🎨"
+title       = "Glaze Development"
+description = "Custom glaze systems matched to your material palette, including matte, reactive, and wood-effect finishes."
+
+[[params.servicesPreview]]
+icon        = "📐"
+title       = "Parametric Design"
+description = "Grasshopper and Rhino integration — we work directly with your digital model or brief."
+
+[[params.servicesPreview]]
+icon        = "🏗️"
+title       = "Facade Engineering"
+description = "Structural and weather performance consultation for exterior ceramic tile installations."
+
+[[params.services]]
+name        = "Custom Relief Tile"
+description = "Parametric surface generation — every tile unique, every installation one-of-a-kind."
+icon        = "🟫"
+
+[[params.services]]
+name        = "Glaze Development"
+description = "Custom glaze systems matched to your material palette, including matte, reactive, and wood-effect finishes."
+icon        = "🎨"
+
+[[params.services]]
+name        = "Parametric Design"
+description = "Grasshopper and Rhino integration — we work directly with your digital model or brief."
+icon        = "📐"
+
+[[params.services]]
+name        = "Facade Engineering"
+description = "Structural and weather performance consultation for exterior ceramic tile installations."
+icon        = "🏗️"
+
+[[params.clusterLinks]]
+name        = "3dprintceramic.com"
+url         = "https://3dprintceramic.com"
+description = "Flagship — ceramic AM news & services"
+
+[[params.clusterLinks]]
+name        = "3dprintceramics.com"
+url         = "https://3dprintceramics.com"
+description = "Ceramics community & resources"
+
+[[params.clusterLinks]]
+name        = "3dprintporcelain.com"
+url         = "https://3dprintporcelain.com"
+description = "Porcelain & fine clay printing"
+
+[[params.clusterLinks]]
+name        = "3dprintstone.com"
+url         = "https://3dprintstone.com"
+description = "Stone & geopolymer AM"
+
+[[params.clusterLinks]]
+name        = "tile3dprint.com"
+url         = "https://tile3dprint.com"
+description = "Tile fabrication services"
+
+[[menu.main]]
+name   = "Home"
+url    = "/"
+weight = 1
+
+[[menu.main]]
+name   = "About"
+url    = "/about/"
+weight = 2
+
+[[menu.main]]
+name   = "Articles"
+url    = "/articles/"
+weight = 3
+
+[[menu.main]]
+name   = "Services"
+url    = "/services/"
+weight = 4
+
+[[menu.main]]
+name   = "Contact"
+url    = "/contact/"
+weight = 5
+
+[[menu.main]]
+name   = "Advertise"
+url    = "/advertise/"
+weight = 6
