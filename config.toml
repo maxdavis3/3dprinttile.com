@@ -10,7 +10,7 @@ description   = "3D Print Tile — specialist coverage of ceramic tile design an
 keywords      = "ceramic tile 3D printing, parametric tile design, custom floor tile, acoustic ceramic tile, facade cladding 3D print, architectural ceramics, custom relief tile"
 logoEmoji     = "🟫"
 contactEmail  = "maxdavisgroup@gmail.com"
-ogImage       = "images/12_ceramic_tiles.png"
+ogImage       = "images/15_facade_modular.png"
 footerServicesLabel = "Services"
 
 colorPrimary      = "#c2714f"
@@ -69,7 +69,7 @@ newsletterText  = "Parametric tile research, material innovations, and project s
 
 ctaTitle   = "Design Your Tile Project"
 ctaText    = "From parametric concept to fired installation — tell us about your project."
-ctaImage   = "images/03_facade_install.png"
+ctaImage   = "images/15_facade_modular.png"
 ctaBtnText = "Get a Quote"
 ctaBtnURL  = "/contact/"
 
@@ -101,7 +101,7 @@ image       = "images/01_wavy_tile.png"
 [[params.applications]]
 title       = "Exterior Cladding"
 description = "Weather-rated terracotta facade panels with custom surface profiles and weathered glaze effects."
-image       = "images/15_facade_modular.png"
+image       = "images/03_facade_install.png"
 
 [[params.applications]]
 title       = "Acoustic Panels"
