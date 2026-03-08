@@ -29,9 +29,9 @@ fontSecondary = "Lato"
 pubmedQuery    = "ceramic+tile+additive+manufacturing+parametric+design"
 pubmedFallback = "ceramic+tile+3D+printing"
 newsFallbackImages = [
-  "images/12_ceramic_tiles.png",
-  "images/06_wall_panel.png",
-  "images/05_lattice_cubes.png",
+  "images/02_printer_active.png",
+  "images/06_pattern_collection.png",
+  "images/14_param_gradient.png",
 ]
 
 heroEyebrow  = "Ceramic Tile 3D Printing"
@@ -41,7 +41,7 @@ heroCta1Text = "Latest Research"
 heroCta1URL  = "/articles/"
 heroCta2Text = "Get a Quote"
 heroCta2URL  = "/contact/"
-heroImage    = "images/12_ceramic_tiles.png"
+heroImage    = "images/08_feature_wall.png"
 
 newsSectionTitle    = "Ceramic Tile & Surface Research"
 newsSectionSubtitle = "Research on parametric ceramic design, acoustic tiles, and architectural cladding systems."
@@ -50,7 +50,7 @@ overviewLabel   = "The Opportunity"
 overviewTitle   = "Tile Beyond the Catalog"
 overviewText    = "Standard tile manufacturing is driven by mold economics — the same 300 forms repeated across millions of square meters. Ceramic 3D printing breaks this constraint: every tile can be different, every surface unique."
 overviewText2   = "Parametric tile design tools let architects and interior designers define rules rather than shapes — generating field-to-field variation, acoustic tuning, or brand-specific surface texture across any installation scale."
-overviewImage   = "images/12_ceramic_tiles.png"
+overviewImage   = "images/09_voronoi_pattern.png"
 overviewBtnText = "See Applications"
 overviewBtnURL  = "/services/"
 
@@ -69,7 +69,7 @@ newsletterText  = "Parametric tile research, material innovations, and project s
 
 ctaTitle   = "Design Your Tile Project"
 ctaText    = "From parametric concept to fired installation — tell us about your project."
-ctaImage   = "images/12_ceramic_tiles.png"
+ctaImage   = "images/03_facade_install.png"
 ctaBtnText = "Get a Quote"
 ctaBtnURL  = "/contact/"
 
@@ -96,22 +96,22 @@ label  = "Required for Custom Tiles"
 [[params.applications]]
 title       = "Interior Wall Tile"
 description = "Custom relief tile for hospitality, retail, and residential spaces — unique surface patterns at production scale."
-image       = "images/12_ceramic_tiles.png"
+image       = "images/01_wavy_tile.png"
 
 [[params.applications]]
 title       = "Exterior Cladding"
 description = "Weather-rated terracotta facade panels with custom surface profiles and weathered glaze effects."
-image       = "images/06_wall_panel.png"
+image       = "images/15_facade_modular.png"
 
 [[params.applications]]
 title       = "Acoustic Panels"
 description = "Sound-absorbing ceramic wall systems for office, auditorium, and restaurant environments with tunable geometry."
-image       = "images/06_wall_panel.png"
+image       = "images/07_hexagon_spheres.png"
 
 [[params.applications]]
 title       = "Perforated Screens"
 description = "Decorative and functional ceramic privacy screens and room dividers with parametric aperture patterns."
-image       = "images/05_lattice_cubes.png"
+image       = "images/04_sculptural_void.png"
 
 [[params.servicesPreview]]
 icon        = "🟫"

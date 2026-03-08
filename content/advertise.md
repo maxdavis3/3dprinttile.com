@@ -3,7 +3,7 @@ title: "Advertise on 3D Print Tile"
 type: "page"
 layout: "advertise"
 subtitle: "Reach engineers, researchers, and procurement teams in ceramic additive manufacturing."
-heroImage: "images/12_ceramic_tiles.png"
+heroImage: "images/16_modular_mixed.png"
 
 audienceTitle: "Who We Reach"
 audienceIntro: "Our readers are technical professionals specifying materials, machines, and services for ceramic AM projects."

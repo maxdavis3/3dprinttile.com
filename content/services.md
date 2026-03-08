@@ -3,7 +3,7 @@ title: "Services — 3D Print Tile"
 type: "page"
 layout: "services"
 subtitle: "Expert coverage and fabrication services for ceramic additive manufacturing."
-heroImage: "images/12_ceramic_tiles.png"
+heroImage: "images/05_floor_tiles.png"
 
 servicesTitle: "Coverage & Services"
 servicesIntro: "From editorial research coverage to hands-on fabrication — 3D Print Tile supports the full lifecycle of ceramic additive manufacturing."
